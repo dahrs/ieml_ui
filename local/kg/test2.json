@@ -4,4 +4,6 @@
          {"name": "03", "parent": "02"}, 
          {"name": "04", "parent": "02"}]},
       {"name": "05", "parent": "01", "children":[
-         {"name": "06", "parent": "01"}]}]}]
+         {"name": "06", "parent": "05"}, 
+         {"name": "07", "parent": "05", "children":[
+            {"name": "04", "parent": "05"}]}]}]}]
