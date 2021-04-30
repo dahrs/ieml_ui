@@ -1,6 +1,7 @@
 [
-   {"name": "01", "parent": "null", "children": [
+   {"name": "01", "parent": "06", "children": [
       {"name": "02", "parent": "01", "children": [
          {"name": "03", "parent": "02"}, 
          {"name": "04", "parent": "02"}]},
-      {"name": "05", "parent": "01"}]}]
+      {"name": "05", "parent": "01", "children":[
+         {"name": "06", "parent": "01"}]}]}]
